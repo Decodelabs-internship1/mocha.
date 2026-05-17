@@ -1,0 +1,6 @@
+- [x] Fix index.html HTML structure (remove nested body tags, keep all sections inside body)
+- [x] Clean up script.js: remove duplicate handlers, implement cart logic with localStorage
+- [x] Update product.html (add multiple product cards and/or data attributes if needed)
+- [x] Update payment.html to display cart summary before/after pay
+- [ ] Clean style.css: remove invalid/duplicated rules, fix broken .hero rules, add padding-top for fixed nav
+- [ ] Quick manual test: add items -> redirect login -> redirect payment -> pay -> clear cart
